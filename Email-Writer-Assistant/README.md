@@ -81,7 +81,7 @@ REACT_APP_FRONTEND_URL=http://localhost:3000
 
 ### 1️⃣ Clone Repository
 
-git clone https://github.com/Tejas-Mahajan2004/Email-Writer-Assistant.git
+git clone https://github.com/Pranesh-Dasnur/Email-Writer-Assistant.git
 cd Email-Writer-Assistant
 
 ---
@@ -106,10 +106,10 @@ npm start
 
 ## 👨‍💻 Author
 
-**Tejas Mahajan**
+**Pranesh Dasnur**
 
-* GitHub: https://github.com/Tejas-Mahajan2004
-* LinkedIn: https://linkedin.com/in/tejasmahajan04
+* GitHub: https://github.com/Pranesh-Dasnur
+* LinkedIn: https://www.linkedin.com/in/praneshdasnur03?
 
 ---
 
